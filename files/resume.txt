@@ -5,7 +5,7 @@ Web-разработчик / Junior Developer
 
 КОНТАКТНАЯ ИНФОРМАЦИЯ
 Email: samirkhamroev@gmail.com
-GitHub: github.com/[samirkhamroev]
+GitHub: https://github.com/samirkhamroev
 Местоположение: Москва, Россия
 
 ПРОФЕССИОНАЛЬНОЕ РЕЗЮМЕ
@@ -76,5 +76,3 @@ E-commerce веб-приложение
 • Исследование трендов в дизайне и разработке
 • Участие в разработке личных проектов
 • Постоянное совершенствование навыков программирования
-
-This paste expires in <1 hour. Public IP access. Share whatever you see with others in seconds with Context. Terms of ServiceReport this
